@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import nltk
 from nltk.corpus import brown
 import pylab
@@ -27,3 +28,6 @@ print(fdist)
 # pylab.plot(x, y)
 # pylab.show()
 
+=======
+print("hello world!")
+>>>>>>> 068a2a95baf618ee67a25c44995b8450cbc55b66
